@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on <a href="https://dreamshaper.com/en/">Dreamshaper</a>.
 - 🌱 I’m currently learning more about vue3 + Nuxt3 + Tailwindcss + javascript.
