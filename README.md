@@ -7,4 +7,4 @@
 - :motorcycle: Owner of [Honda CB650R 2023](https://www.instagram.com/rubb.moto/)
 
 
-- see next: [Nextjs](https://www.youtube.com/watch?v=dImgZ_AH7uA)
+- see next: [Nextjs](https://www.youtube.com/watch?v=dImgZ_AH7uA) e [isto](https://www.youtube.com/watch?v=Pj7wPjFRWC4)
